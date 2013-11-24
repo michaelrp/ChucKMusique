@@ -106,8 +106,6 @@ for (0 => int i; i < 24; i++)
 
 //start repeating drum pattern
 
-//0 => int counter;
-
 for (0 => int r; r < 6; r++) 
 {
     for (0 => int beat; beat < 32; beat++)
@@ -249,7 +247,6 @@ for (0 => int r; r < 6; r++)
         //to get eight notes, half the quarter beat
         (quarter_note / 2.0)::second => now;
         
-        //counter++;
     }
 }
 
