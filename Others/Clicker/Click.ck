@@ -1,5 +1,4 @@
 // Click.ck
-// Assignment_8_Bells_For_Thee
 
 //use a class definition for multiple click objects
 public class Click
